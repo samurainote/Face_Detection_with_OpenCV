@@ -1,6 +1,6 @@
 # OpenCV: Human Face Detection from Image 
 ## 画像から人間の顔部分を特定
-![](https://miro.medium.com/max/1028/1*MnbUSSXG1IDS9mXC0H8cKQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*MnbUSSXG1IDS9mXC0H8cKQ.png)
 
 ## Introduction
 
